@@ -1,0 +1,22 @@
+# Core data processing and visualization
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine learning and feature selection
+scikit-learn
+feature-engine
+tensorflow
+keras
+
+# Model interpretation and hyperparameter optimization
+shap
+bayesian-optimization
+
+# Reading the Excel dataset used by the notebook
+openpyxl
+
+# Optional local notebook runtime
+jupyter
+ipykernel
